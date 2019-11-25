@@ -1,0 +1,1 @@
+%userprofile%\AppData\Roaming\QGIS\QGIS3\profiles\default\processing\models
